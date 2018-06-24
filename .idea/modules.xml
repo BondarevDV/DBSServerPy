@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BDVClient/.idea/BDVClient.iml" filepath="$PROJECT_DIR$/../BDVClient/.idea/BDVClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BDVServer.iml" filepath="$PROJECT_DIR$/.idea/BDVServer.iml" />
+    </modules>
+  </component>
+</project>
